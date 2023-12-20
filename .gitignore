@@ -23,4 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 idea
+package-lock.json
+yarn.lock
 
